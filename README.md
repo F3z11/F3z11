@@ -1,18 +1,42 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">Statistical Thinker | Data Scientist in the Making</h3>
+<h3 align="center">Data Science Student | Statistical Thinker</h3>
 
-- 🔭 I’m currently working on **some research projects 👀**
-
-- 🌱 I’m currently studying **Data Science at Padova University**
-
-- 📫 How to reach me **fez.cle@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/federicoclericii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federicoclericii" height="30" width="40" /></a>
+<p align="center">
+Double Master’s student in Data Science at the University of Padua and Universitat Politècnica de Catalunya, with a background in Statistics and Information Management and a strong focus on applied machine learning and experimental rigor.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently:
+  - Maintaining and improving open-source ML implementations on GitHub, including methods such as Friedman's Regularized Discriminant Analysis.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=f3z11&show_icons=true&locale=en&layout=compact" alt="f3z11" /></p>
+- 🎓 Education:
+  - Double Master Degree in Data Science – University of Padua & Universitat Politècnica de Catalunya (2024 – current).
+  - BSc in Statistics and Information Management – University of Milan-Bicocca.
+
+- 🧪 Some recent projects and research:
+  - Benchmarked 20+ categorical encoders on 10+ tabular datasets in supervised learning, with a strong emphasis on reproducibility and rigorous evaluation.
+  - Implemented distributed k-means (Lloyd’s algorithm) and a fair variant in PySpark, plus streaming frequency estimation with Count-Min Sketch vs Count Sketch.
+  - Built NLP pipelines with Transformers, BERT, and RAG for tasks like text classification, fake-news detection, and domain-specific question answering.
+
+- 💡 What I enjoy:
+  - Turning messy, real-world data into clear insights and robust models, from anomaly detection and time series to recommender systems and optimization.
+  - Bridging theory and practice through open, reproducible experiments and clean, well-documented code.
+
+- 📫 How to reach me:
+  - Email: **fez.cle@gmail.com**
+  - LinkedIn: **linkedin.com/in/federicoclericii**
+  - GitHub: **github.com/F3z11**
+
+---
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <strong>Also working with:</strong> R, SQL, SAS, Apache Spark/PySpark, Jupyter, VS Code, Tableau, Git/GitHub.
+</p>
