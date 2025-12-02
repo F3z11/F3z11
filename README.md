@@ -18,7 +18,7 @@ Double Master’s student in Data Science at the University of Padua and Univers
   - Built NLP pipelines with Transformers, BERT, and RAG for tasks like text classification, fake-news detection, and domain-specific question answering.
 
 - 💡 What I enjoy:
-  - Turning messy, real-world data into clear insights and robust models, from anomaly detection and time series to recommender systems and optimization.
+  - Turning messy, real-world data into clear insights and robust models, from implementation of ML algorithms to recommender systems and optimization.
   - Bridging theory and practice through open, reproducible experiments and clean, well-documented code.
 
 - 📫 How to reach me:
